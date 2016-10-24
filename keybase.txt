@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/dumbear
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.dumbeartech.com
+  * I am dumbear (https://keybase.io/dumbear) on keybase.
+  * I have a public key with fingerprint 1458 3DB9 E341 D10D 5D4B  384A 97C8 20F5 6368 A44F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101198a5c39890a576f45dc392a5962c961ee75dbe8db9d1cb61cf1839b7e0bab3d0a",
+            "fingerprint": "14583db9e341d10d5d4b384a97c820f56368a44f",
+            "host": "keybase.io",
+            "key_id": "97c820f56368a44f",
+            "kid": "0101198a5c39890a576f45dc392a5962c961ee75dbe8db9d1cb61cf1839b7e0bab3d0a",
+            "uid": "5c795c14b10ef59dc53b2d99146a2a19",
+            "username": "dumbear"
+        },
+        "service": {
+            "hostname": "www.dumbeartech.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1477286048,
+    "expire_in": 157680000,
+    "prev": "190f13ce7de024b685e5f115fcb04df861bfe9fdfac28f01f199119e8172032c",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMNIAnicrZJrTBRXFMd3K6xZWkKFWgHTWCbyKo/O3XnszEprWxIMVnmk1FpBtvO4
+swzLziz74BG1VK2AmrVJEWNXhfKSYIoUuoBGq0WgyCNSmpJSY2MbaJtoi6GtCoGV
+zhD6rR97v9yck9//f8859wwEr9EEabuuXn817d3j27Wjfefcmt3Bpz/dh7AyX46Y
+9iFWuHLBIh46XWaryCMmBAUoADTFEBxGUzTKEEZSwAleiQwMQZMGjiYBhEaCZyHF
+szQPOJYEnAAojGaNEGUZFuNRBklEBFGyQIfdIUouxRbgBIUpPMRwwAOUJ3icxSic
+oY0cZUAFgsRIisFxQREWyE5VoRTHMk6YLMpKTgnMK+X9B/8/1+1esSM4I01wAGcB
+CgWC5jkCYw08TQOcZAwMoFXQCR0SY4MKzbttLGQcyIFEREmWiBxU56o2sgqUlpYm
+r0IuyBUkc7JNcbA7ZJfMyUUKUOBy2Z0m1cBVbl9RQNa86mVmRYlXpqkoSqDDKcoS
+YgIKyblE1RzgRqOBIlGcSkRgmV10QLOoEsoEKFQ56juwRP0DGhUAxkEjD1EDzpIU
+AQkBAELgWBTnBYoErABpgRcYzkAJKBCA0i+gIQWMBhQzcIjaXbEkIyZSKZOxKJZO
+0SIxLrcDIgdu9OUFaLRBGl3gU+qWaYL0z/67e48+CfE/19TQ7ptN3N1OWS4v7JKx
+jVEBueety1Ueb/5gjzuElCe3bNjqax5sP6k9+yR42prgKfN2RB/uiOyIHJxzr00J
+1f7891zO+0sPsypP6I6MF6e17nrkt1bFvhHzTMPXU6G/7Dn5+8SpD7ojpmLzZgaG
++6vbq4R7fT1h0RVE5YOal8KuZL8Jlp15IW1zJ+ZHPhc2McPxSW1Lqfu7HvRXNIXt
+8e6fvqZLNeee++pY2NG64jG03laq7ek98yTbdyZn26HM5syoiBTi8ctJmD+ypBF2
+taxzft8QXpSxGHj3h/qL6z+Woko+mr3/3X2zZSSz0nroy4ounz78UsuOF+rqrqTu
+fS9hYa93qHTSkvvnUGsn9lAM2zhW9u0YthAzv3SweuKa9dYrteP6ftQ/fiqg1teb
+zhGnrY7N4Xrv7dvZ4oWBz7Ju2rWJIXeaQ+/FTvWOjXJrxOx6z8H82rifym3HffE5
+Q4XLaE1oQ8LMzsKQFyfn29clTfSV/7VQPiX1tW4qfCtBF/Dr1vRbOt3Tj6XRy/l+
+XeOGGFd69DfU9MWWCzW+3B7rxFAjqSdTGzc3/Hhpi/7ugD1Q88eHLetvFC7WvH7n
+iwhb2s6M69Xn497JOMJ1S3HO12b9Kb+ZPLg++LCR92Q1HvPWj9JtMyOdySK2/WpA
+6s3OxbzBiXjb2I7m57tnt+UOLzW9/Q93jsWL
+=aY0U
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dumbear
+
+==================================================================
